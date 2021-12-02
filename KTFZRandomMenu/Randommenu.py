@@ -92,6 +92,6 @@ menu3 = random.choice(menus)
 print("请珍惜每一次的随机选择！！----", menu3)
 Blanklines()
 
-print("执行人在以下随机选取的菜品种选择一种菜品作为聚餐目标，请讨论作出决定！！！\n",menu1,menu2,menu3)
+print("执行人在以下随机选取的菜品种选择一种菜品作为聚餐目标，请讨论作出决定！！！\n", menu1, menu2, menu3)
 Blanklines()
 input("请按回车键以关闭窗口，我们下次聚餐再见。")
